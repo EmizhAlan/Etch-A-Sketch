@@ -1,0 +1,27 @@
+.container{
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+.button {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    color: #ff9000 !important; 
+    transition: color 9999999s
+}
+
+.button:active {
+    color: green;
+    transition: color 0s 
+}
+
+.active {
+    
+    background-color: black;
+      
+}
