@@ -66,4 +66,4 @@ container.appendChild.innerHTML = generateItems(256);
 //generateItems(16);
 
 
-alert('hello world');
+alert('hi user');
